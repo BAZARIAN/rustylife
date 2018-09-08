@@ -11,7 +11,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("ChatManager", "bazuka5801", "1.0.0")]
+    [Info("ChatManager", "dyxa", "1.0.0")]
     public class ChatManager : RustPlugin
     {
 
